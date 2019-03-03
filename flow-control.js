@@ -33,6 +33,6 @@ return  age >= 13 && age <= 19 ? console.log("You are a teenager") : console.log
 
 function switchAge(age) {
   switch(age){
-    
+
   }
 }
