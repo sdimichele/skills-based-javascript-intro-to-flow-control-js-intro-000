@@ -3,7 +3,8 @@ function basicTeenager(age) {
     console.log("You are a teenager!")
 
   } else {
-    return undefined
+    console.log(udefined)
+  
   }
 
 }
