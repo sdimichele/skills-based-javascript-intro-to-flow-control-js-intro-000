@@ -4,7 +4,7 @@ function basicTeenager(age) {
 
   } else {
     console.log(udefined)
-  
+
   }
 
 }
