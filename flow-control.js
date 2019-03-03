@@ -68,4 +68,4 @@ function ternaryTeenager(age) {
         return "You have an age";
 
   }
-} 
+}
